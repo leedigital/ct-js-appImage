@@ -10,17 +10,17 @@ chmod +x ct-js-appimage-1.0.0.AppImage
 
 And Then:
 ```
-**./ct-js-appimage-1.0.0.AppImage**
+./ct-js-appimage-1.0.0.AppImage
 ```
 
 ## How to Install
 
 ```
-**git clone https://github.com/leedigital/ct-js-appImage.git**
+git clone https://github.com/leedigital/ct-js-appImage.git
 ```
 
 ```
-**npm install**
+npm install
 ```
 
 ## How to use
@@ -28,13 +28,13 @@ And Then:
 ### To run
 
 ```
-**npm start**
+npm start
 ```
 
 ### To build
 
 ```
-**npm run build**
+npm run build
 ```
 
 
