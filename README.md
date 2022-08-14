@@ -1,26 +1,26 @@
 # Ct.js AppImage Launcher for Linux
 
-This is a ct.js launcher for Gnu/Linux users. This launcher keeps ct.js up to date with the latest version.
+This is a [ct.js](https://github.com/ct-js/ct-js.git) launcher for Gnu/Linux users. This launcher keeps [ct.js](https://github.com/ct-js/ct-js.git) up to date with the latest version.
 
 To run the appImage, just do the following:
 
 ```
-chmod +x ct-js-appimage-1.0.0.AppImage
+**chmod +x ct-js-appimage-1.0.0.AppImage**
 ```
 
 And Then:
 ```
-./ct-js-appimage-1.0.0.AppImage
+**./ct-js-appimage-1.0.0.AppImage**
 ```
 
 ## How to Install
 
 ```
-git clone https://github.com/leedigital/ct-js-appImage.git
+**git clone https://github.com/leedigital/ct-js-appImage.git**
 ```
 
 ```
-npm install
+**npm install**
 ```
 
 ## How to use
@@ -28,14 +28,13 @@ npm install
 ### To run
 
 ```
-npm start
+**npm start**
 ```
 
 ### To build
 
-
 ```
-npm run build
+**npm run build**
 ```
 
 
