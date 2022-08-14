@@ -1,0 +1,30 @@
+{
+  "name": "ct-js-appimage",
+  "version": "1.0.0",
+  "description": "ctjs appImage launcher",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder -l --x64"
+  },
+  "keywords": [],
+  "author": "araujo921",
+  "license": "ISC",
+  "dependencies": {
+    "follow-redirects": "^1.15.1",
+    "unzipper": "^0.10.11"
+  },
+  "devDependencies": {
+    "electron": "^20.0.1",
+    "electron-builder": "^5.5.0"
+  },
+  "build": {
+    "appId": "rocks.ctjs",
+    "linux": {
+      "target": [
+        "AppImage"
+      ],
+      "category": "Development"
+    }
+  }
+}
