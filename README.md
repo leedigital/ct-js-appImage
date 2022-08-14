@@ -16,7 +16,7 @@ And Then:
 ## How to Install
 
 ```
-git clone 
+git clone https://github.com/leedigital/ct-js-appImage.git
 ```
 
 ```
