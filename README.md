@@ -1,4 +1,4 @@
-# Ct.js AppImage Launcher for Linux
+# Ct.js AppImage Launcher for Linux x64
 
 This is a [ct.js](https://github.com/ct-js/ct-js.git) launcher for Gnu/Linux users. This launcher keeps [ct.js](https://github.com/ct-js/ct-js.git) up to date with the latest version.
 
