@@ -16,7 +16,7 @@ app.whenReady().then(() => {
         ctjs.kill();
         Util.exit();
     });
-    // process.on("SIGKILL", kill);
+
     try {
         ctjs.check4Updates().then(
             (data) => {
@@ -31,7 +31,6 @@ app.whenReady().then(() => {
                 );
             },
             (error) => {
-                // LOG.error(error);
                 // no internet connection ????
                 // okay, let's looking for version file
                 try {
