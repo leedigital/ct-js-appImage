@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "araujo921",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "follow-redirects": "^1.15.1",
     "unzipper": "^0.10.11"
