@@ -20,6 +20,9 @@
   },
   "build": {
     "appId": "rocks.ctjs",
+    "files": [
+      "!.cache"
+    ],
     "linux": {
       "target": [
         "AppImage"
