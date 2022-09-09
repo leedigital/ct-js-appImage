@@ -130,6 +130,7 @@ const extractFiles = function (resolve, reject) {
                 } catch (error) {
                     Util.error(error);
                 }
+                Version.file.version = Version.remoteVersion;
                 Version.save();
                 resolve();
             }).on("error", () => {
